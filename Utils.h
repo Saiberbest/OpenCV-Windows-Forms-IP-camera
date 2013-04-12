@@ -2,7 +2,7 @@
 
 #include <string>
 
-namespace WinformsIPcamera2 {
+namespace OpenCvWinFormsIpCamera {
 
   using namespace System;
 
